@@ -60,9 +60,8 @@ This project currently uses a slide switch in Wokwi to simulate the output of cu
 Electronics and Communication Engineering Student
 GitHub: https://github.com/MariyaJones-26
 ## Project Images
-### Full Circuit
+## Full Circuit
 ![Full Circuit](Full_Circuit.png)
----
 ### Wokwi Circuit
 ![Wokwi Circuit](Wokwi_Circuit.png)
 ---
