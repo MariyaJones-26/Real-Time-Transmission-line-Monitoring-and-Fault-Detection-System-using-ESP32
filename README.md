@@ -59,3 +59,15 @@ This project currently uses a slide switch in Wokwi to simulate the output of cu
 **Mariya Jones S**
 Electronics and Communication Engineering Student
 GitHub: https://github.com/MariyaJones-26
+## Project Images
+### Full Circuit
+![Full Circuit](Full_Circuit.png)
+---
+### Wokwi Circuit
+![Wokwi Circuit](Wokwi_Circuit.png)
+---
+### Healthy State
+![Healthy State](Healthy_State.png)
+---
+### Fault State
+![Fault State](Fault_State.png)
